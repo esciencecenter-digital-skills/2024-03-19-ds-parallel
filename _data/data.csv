@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-NA,online,NA,NA,NA,"April 03 - 06, 2023",9:00 - 13:00 CEST,2023-04-02T22:00:00Z,2023-04-05T22:00:00Z,"Johan Hidding, Jaro Camphuijsen","Ji Qi, Laura Ootes, Flavio Hafner",ds,ds-parallel,Parallel Programming with Python,2023-04-03-ds-parallel,NA
+Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566292,4.9568662,"March 19 - 20, 2024",9:30 - 17:00 CET,2024-03-18T23:00:00Z,2024-03-19T23:00:00Z,"Johan Hidding, Flavio Hafner, Francesco Nattino",Sander van Rijn,ds,ds-parallel,Parallel Programming with Python,2024-03-19-ds-parallel,NA
